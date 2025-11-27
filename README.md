@@ -1,6 +1,6 @@
 ## Hi there 👋, I’m Subhradip Mishra
 
-I’m a **Full-Stack Developer & Problem Solver** passionate about building scalable, efficient, and innovative software solutions. I enjoy solving complex problems, designing cloud-based systems, and creating products that impact users globally.  
+I’m a Full-Stack Developer & Problem Solver passionate about building scalable, efficient, and innovative software solutions. I love solving complex problems, designing cloud-based systems, and creating products that make a real impact. I enjoy learning new technologies, improving my skills in DSA, system design, and full-stack development, and building projects that challenge me and deliver value.
 
 ---
 
