@@ -10,7 +10,7 @@ I’m a **Full-Stack Developer & Problem Solver** passionate about building scal
 - 👯 I’m open to collaborating on **open-source projects, developer tools, and high-performance applications**  
 - 🤔 I’m looking for guidance on **distributed systems, advanced algorithms, and scalable architectures**  
 - 💬 Ask me about **JavaScript, React, Node.js, Python, Java, Spring Boot, cloud infrastructure, microservices, and DSA**  
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-profile)  
+- 📫 How to reach me: [Email](mishrasubhradip2005@gmail.com) | [LinkedIn](https://www.linkedin.com/in/subhradip-mishra-253258296/) | [Twitter](https://twitter.com/your-profile)  
 - ⚡ Fun fact: **Runner-up of Codewars 5.0 by IEEE**, solved **450+ DSA problems**, and love experimenting with new tech  
 
 ---
